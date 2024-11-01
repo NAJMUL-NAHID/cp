@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"d:\\my dev\\cps\\cp\\A.cpp","tests":[{"id":1729781250754,"input":"4\n1\n6\n3\n98\n","output":"Kosuke\nSakurako\nKosuke\nSakurako\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\my dev\\cps\\cp\\A.cpp","group":"local","local":true}
